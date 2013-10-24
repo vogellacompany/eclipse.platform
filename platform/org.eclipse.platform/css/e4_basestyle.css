@@ -1,17 +1,16 @@
 
 .MTrimmedWindow.topLevel { 
-    margin-top: 5px;
-    margin-bottom: 2px;
+    margin-top: 0px;
+    margin-bottom: 0px;
     margin-left: 2px;
     margin-right: 2px;
 }
 
 .MPartStack {
-    swt-tab-renderer: url('bundleclass://org.eclipse.e4.ui.workbench.renderers.swt/org.eclipse.e4.ui.workbench.renderers.swt.CTabRendering');
     swt-unselected-tabs-color: #FFFFFF #FFFFFF #FFFFFF 100% 100%;
     swt-outer-keyline-color: #FFFFFF;
 	swt-inner-keyline-color: #FFFFFF;
-	padding: 0px 9px 10px;
+	padding: 0px 0px 0px;
 	swt-tab-outline: #B6BCCC;
 	swt-shadow-visible: true;
 	swt-mru-visible: false;
